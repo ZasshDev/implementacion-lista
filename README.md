@@ -26,3 +26,13 @@ Para probar este proyecto en tu entorno local, sigue estos pasos:
 ```bash
 git clone [https://github.com/TuUsuario/nombre-del-repo.git](https://github.com/TuUsuario/nombre-del-repo.git)
 cd nombre-del-repo
+```
+### 2.Compilar
+```bash
+javac *.java
+```
+### 3. Ejecutar la prueba Main.java
+```bash
+java Main
+```
+
