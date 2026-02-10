@@ -25,7 +25,7 @@ Para probar este proyecto en tu entorno local, sigue estos pasos:
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/ZasshDev/implementacion-lista
-cd nombre-del-repo
+cd implementacion-lista
 ```
 ### 2.Compilar
 ```bash
